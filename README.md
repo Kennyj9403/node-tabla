@@ -1,6 +1,6 @@
 # Notas
 
-Este es mi programa de node
+App para multiplicación usando yargs
 
 ```
 Opciones:
